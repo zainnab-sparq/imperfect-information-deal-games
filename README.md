@@ -1,6 +1,6 @@
 # How Much Due Diligence Before You Bid?<br>Learning in Intractable Takeover Auctions
 
-[![arXiv](https://img.shields.io/badge/arXiv-pending-b31b1b.svg)](paper/main.pdf) [![paper](https://img.shields.io/badge/paper-PDF-blue)](paper/main.pdf) [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](requirements.txt) [![OpenSpiel](https://img.shields.io/badge/built%20on-OpenSpiel-green)](https://github.com/google-deepmind/open_spiel) [![compute](https://img.shields.io/badge/compute-laptop%20CPU-lightgrey)](#reproducing-the-paper)
+[![arXiv](https://img.shields.io/badge/arXiv-pending-b31b1b.svg)](paper/main.pdf) [![paper](https://img.shields.io/badge/paper-PDF-blue)](paper/main.pdf) [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](requirements.txt) [![OpenSpiel](https://img.shields.io/badge/built%20on-OpenSpiel-green)](https://github.com/google-deepmind/open_spiel) [![compute](https://img.shields.io/badge/compute-laptop%20CPU-lightgrey)](#reproducing-the-paper) [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## TL;DR
 
