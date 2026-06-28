@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LaTeX build artifacts (keep .tex/.bib/.pdf, drop the rest)
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.fls
+
+# Per-game intermediate benchmark CSVs (merged into cross_game.csv)
+results/cross_game_*.csv
+
+# Local-only: research memory and gathered literature, not part of the public release
+memory/
+context/
