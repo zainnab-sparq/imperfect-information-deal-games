@@ -1,6 +1,6 @@
 # How Much Due Diligence Before You Bid?<br>Learning in Intractable Takeover Auctions
 
-[![arXiv](https://img.shields.io/badge/arXiv-pending-b31b1b.svg)](paper/main.pdf) [![paper](https://img.shields.io/badge/paper-PDF-blue)](paper/main.pdf) [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](requirements.txt) [![OpenSpiel](https://img.shields.io/badge/built%20on-OpenSpiel-green)](https://github.com/google-deepmind/open_spiel) [![compute](https://img.shields.io/badge/compute-laptop%20CPU-lightgrey)](#reproducing-the-paper) [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.29457-b31b1b.svg)](https://arxiv.org/abs/2606.29457) [![paper](https://img.shields.io/badge/paper-PDF-blue)](paper/main.pdf) [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](requirements.txt) [![OpenSpiel](https://img.shields.io/badge/built%20on-OpenSpiel-green)](https://github.com/google-deepmind/open_spiel) [![compute](https://img.shields.io/badge/compute-laptop%20CPU-lightgrey)](#reproducing-the-paper) [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## TL;DR
 
@@ -100,6 +100,9 @@ docker run --rm -v "$(pwd):/work" -w /work imperfect-info:latest \
   title  = {How Much Due Diligence Before You Bid? Learning in Intractable Takeover Auctions},
   author = {Naboulsi, Zain},
   year   = {2026},
-  note   = {arXiv preprint; identifier to be added upon posting}
+  eprint = {2606.29457},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.AI},
+  note   = {arXiv:2606.29457}
 }
 ```
